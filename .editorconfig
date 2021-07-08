@@ -1,0 +1,6 @@
+root = true
+
+[Dockerfile]
+indent_size = 4
+indent_style = space
+binary_next_line = true
